@@ -1,0 +1,6 @@
+{
+  "name": "ApexHR - Enterprise HR & Facial Recognition Attendance System",
+  "description": "Enterprise-grade HR management platform featuring browser-based facial recognition attendance with anti-spoofing liveness detection, automated attendance engine, leave approval workflows, shifts, payroll, and audit trails.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
